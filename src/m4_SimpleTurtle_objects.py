@@ -126,6 +126,12 @@ jacob.backward(300)
 jacob.pen = rg.Pen('green', 44)
 jacob.left(21)
 jacob.forward(266)
+jacob.left(159)
+jacob.forward(266)
+jacob.left(159)
+jacob.forward(266)
+jacob.left(159)
+jacob.forward(266)
 ###############################################################################
 #
 # DONE: 4.
